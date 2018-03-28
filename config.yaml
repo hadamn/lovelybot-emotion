@@ -1,4 +1,3 @@
-<appSettings>
-	<add key="app_client_id" value="" />
-	<add key="app_client_secret" value="" />
-</appSettings>
++other:
++    app_client_id: 
++    app_client_secret:
